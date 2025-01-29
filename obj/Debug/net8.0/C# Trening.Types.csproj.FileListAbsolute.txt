@@ -1,0 +1,14 @@
+/Users/hadibakri/SelvKoding/C# Trening.Types/bin/Debug/net8.0/C# Trening.Types
+/Users/hadibakri/SelvKoding/C# Trening.Types/bin/Debug/net8.0/C# Trening.Types.deps.json
+/Users/hadibakri/SelvKoding/C# Trening.Types/bin/Debug/net8.0/C# Trening.Types.runtimeconfig.json
+/Users/hadibakri/SelvKoding/C# Trening.Types/bin/Debug/net8.0/C# Trening.Types.dll
+/Users/hadibakri/SelvKoding/C# Trening.Types/bin/Debug/net8.0/C# Trening.Types.pdb
+/Users/hadibakri/SelvKoding/C# Trening.Types/obj/Debug/net8.0/C# Trening.Types.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hadibakri/SelvKoding/C# Trening.Types/obj/Debug/net8.0/C# Trening.Types.AssemblyInfoInputs.cache
+/Users/hadibakri/SelvKoding/C# Trening.Types/obj/Debug/net8.0/C# Trening.Types.AssemblyInfo.cs
+/Users/hadibakri/SelvKoding/C# Trening.Types/obj/Debug/net8.0/C# Trening.Types.csproj.CoreCompileInputs.cache
+/Users/hadibakri/SelvKoding/C# Trening.Types/obj/Debug/net8.0/C# Trening.Types.dll
+/Users/hadibakri/SelvKoding/C# Trening.Types/obj/Debug/net8.0/refint/C# Trening.Types.dll
+/Users/hadibakri/SelvKoding/C# Trening.Types/obj/Debug/net8.0/C# Trening.Types.pdb
+/Users/hadibakri/SelvKoding/C# Trening.Types/obj/Debug/net8.0/C# Trening.Types.genruntimeconfig.cache
+/Users/hadibakri/SelvKoding/C# Trening.Types/obj/Debug/net8.0/ref/C# Trening.Types.dll
